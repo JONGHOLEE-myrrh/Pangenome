@@ -1,0 +1,12 @@
+GO term	Ontology	Description	Number in input list	Number in BG/Ref	p-value	FDR
+GO:0003676	F	nucleic acid binding	10306	27065	1.10E-66	3.50E-65
+GO:0006259	P	DNA metabolic process	3796	9444	7.60E-50	4.70E-48
+GO:0016787	F	hydrolase activity	10148	27615	1.90E-39	2.90E-38
+GO:0004518	F	nuclease activity	1709	4055	2.00E-35	2.10E-34
+GO:0000166	F	nucleotide binding	10025	27465	6.90E-35	4.30E-34
+GO:0005488	F	binding	32538	92736	5.90E-35	4.30E-34
+GO:0005515	F	protein binding	9964	28067	3.50E-20	1.80E-19
+GO:0016788	F	hydrolase activity, acting on ester bonds	2778	7590	1.60E-12	6.90E-12
+GO:0019825	F	oxygen binding	21	21	6.50E-11	2.50E-10
+GO:0060089	F	molecular transducer activity	176	388	1.50E-07	4.80E-07
+

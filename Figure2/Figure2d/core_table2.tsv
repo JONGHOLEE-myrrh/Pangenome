@@ -1,0 +1,73 @@
+GO term	Ontology	Description	Number in input list	Number in BG/Ref	p-value	FDR
+GO:0019222	P	regulation of metabolic process	6654	8399	1.30E-152	8.20E-151
+GO:0065007	P	biological regulation	8680	11238	1.30E-143	2.80E-142
+GO:0010468	P	regulation of gene expression	6485	8217	1.50E-142	2.40E-141
+GO:0050789	P	regulation of biological process	8207	10594	1.10E-141	1.40E-140
+GO:0050794	P	regulation of cellular process	7992	10333	2.20E-135	2.30E-134
+GO:0003700	F	transcription factor activity, sequence-specific DNA binding	3344	4141	1.40E-97	4.10E-96
+GO:0009058	P	biosynthetic process	13982	19294	6.80E-78	6.20E-77
+GO:0010467	P	gene expression	11065	15137	2.40E-75	1.90E-74
+GO:0034645	P	cellular macromolecule biosynthetic process	10750	14700	5.30E-74	3.40E-73
+GO:0009059	P	macromolecule biosynthetic process	10750	14700	5.30E-74	3.40E-73
+GO:0044249	P	cellular biosynthetic process	12873	17784	1.10E-70	6.20E-70
+GO:0016020	C	membrane	11711	16202	4.60E-63	2.10E-61
+GO:0051179	P	localization	7875	10768	6.60E-56	3.50E-55
+GO:0006810	P	transport	7731	10617	1.50E-50	6.70E-50
+GO:0044267	P	cellular protein metabolic process	14595	20583	2.10E-48	9.10E-48
+GO:0050896	P	response to stimulus	4886	6596	2.30E-45	9.20E-45
+GO:0005215	F	transporter activity	5276	7168	1.30E-43	1.90E-42
+GO:0000003	P	reproduction	731	844	9.80E-43	3.30E-42
+GO:0032501	P	multicellular organismal process	841	987	9.50E-43	3.30E-42
+GO:0022414	P	reproductive process	731	844	9.80E-43	3.30E-42
+GO:0044424	C	intracellular part	8320	11583	1.60E-40	2.50E-39
+GO:0005622	C	intracellular	8320	11583	1.60E-40	2.50E-39
+GO:0043412	P	macromolecule modification	11314	15944	1.40E-39	4.30E-39
+GO:0006464	P	cellular protein modification process	11108	15645	1.60E-39	4.80E-39
+GO:0044464	C	cell part	8587	11992	8.20E-39	7.60E-38
+GO:0005623	C	cell	8587	11992	8.20E-39	7.60E-38
+GO:0016740	F	transferase activity	19371	27761	5.10E-38	5.10E-37
+GO:0009719	P	response to endogenous stimulus	1310	1635	8.00E-37	2.10E-36
+GO:0043229	C	intracellular organelle	6078	8388	7.60E-37	5.00E-36
+GO:0043226	C	organelle	6078	8388	7.60E-37	5.00E-36
+GO:0016301	F	kinase activity	9896	13976	2.80E-33	2.10E-32
+GO:0005975	P	carbohydrate metabolic process	3900	5304	1.80E-32	4.70E-32
+GO:0051704	P	multi-organism process	681	808	6.40E-32	1.60E-31
+GO:0032991	C	macromolecular complex	5676	7886	4.40E-30	2.50E-29
+GO:0030246	F	carbohydrate binding	778	948	1.50E-28	8.80E-28
+GO:0009056	P	catabolic process	1575	2053	1.40E-26	3.40E-26
+GO:0043228	C	non-membrane-bounded organelle	3052	4146	1.80E-26	8.10E-26
+GO:0005198	F	structural molecule activity	2486	3358	3.60E-24	1.80E-23
+GO:0009606	P	tropism	133	135	8.80E-22	2.00E-21
+GO:0030529	C	intracellular ribonucleoprotein complex	2436	3307	7.80E-22	3.20E-21
+GO:0005634	C	nucleus	2149	2906	8.20E-21	3.20E-20
+GO:0007154	P	cell communication	1931	2601	4.00E-20	8.80E-20
+GO:0005840	C	ribosome	2242	3049	1.10E-19	4.00E-19
+GO:0005886	C	plasma membrane	199	218	1.50E-18	4.80E-18
+GO:0006629	P	lipid metabolic process	2467	3385	2.60E-18	5.50E-18
+GO:0016772	F	transferase activity, transferring phosphorus-containing groups	10864	15689	5.00E-18	2.20E-17
+GO:0003723	F	RNA binding	2315	3174	1.50E-17	5.60E-17
+GO:0044444	C	cytoplasmic part	3752	5279	1.10E-15	3.40E-15
+GO:0043231	C	intracellular membrane-bounded organelle	3231	4540	3.20E-14	8.60E-14
+GO:0043227	C	membrane-bounded organelle	3231	4540	3.20E-14	8.60E-14
+GO:0005737	C	cytoplasm	4116	5850	3.70E-13	9.60E-13
+GO:0019725	P	cellular homeostasis	161	181	8.00E-13	1.60E-12
+GO:0006950	P	response to stress	2009	2783	8.50E-13	1.70E-12
+GO:0030234	F	enzyme regulator activity	1839	2546	5.30E-12	1.80E-11
+GO:0003824	F	catalytic activity	50457	75081	8.40E-11	2.50E-10
+GO:0016043	P	cellular component organization	2286	3232	3.10E-09	5.80E-09
+GO:0007049	P	cell cycle	296	375	2.10E-08	3.90E-08
+GO:0032502	P	developmental process	220	273	6.10E-08	1.00E-07
+GO:0048856	P	anatomical structure development	220	273	6.10E-08	1.00E-07
+GO:0009791	P	post-embryonic development	74	82	3.20E-07	4.90E-07
+GO:0005768	C	endosome	36	36	3.00E-07	7.30E-07
+GO:0009605	P	response to external stimulus	218	284	4.50E-05	6.70E-05
+GO:0007165	P	signal transduction	1310	1887	0.00063	0.00091
+GO:0019538	P	protein metabolic process	18259	27308	0.00075	0.0011
+GO:0003682	F	chromatin binding	199	263	0.00039	0.0011
+GO:0040007	P	growth	76	94	0.001	0.0015
+GO:0008289	F	lipid binding	588	828	0.00094	0.0024
+GO:0005102	F	receptor binding	49	58	0.0013	0.003
+GO:0044428	C	nuclear part	671	953	0.0017	0.0038
+GO:0019748	P	secondary metabolic process	14	14	0.0029	0.004
+GO:0065008	P	regulation of biological quality	442	632	0.017	0.023
+GO:0005794	C	Golgi apparatus	223	310	0.013	0.029
